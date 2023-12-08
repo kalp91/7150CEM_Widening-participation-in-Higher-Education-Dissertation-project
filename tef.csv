@@ -1,0 +1,21 @@
+"time_period","time_identifier","geographic_level","country_code","country_name","school_type","tef_rating","number_of_he_students","progression_rate","percentage_he_students"
+202122,"Academic year","National","E92000001","England","Independent","Gold",14890,46.2,52.7
+202122,"Academic year","National","E92000001","England","Independent","Silver",11025,34.2,39
+202122,"Academic year","National","E92000001","England","Independent","Bronze",773,2.4,2.7
+202122,"Academic year","National","E92000001","England","Independent","Provisional",92,0.3,0.3
+202122,"Academic year","National","E92000001","England","Independent","None",1473,4.6,5.2
+202122,"Academic year","National","E92000001","England","Selective State","Gold",10924,47.6,52.4
+202122,"Academic year","National","E92000001","England","Selective State","Silver",8538,37.2,41
+202122,"Academic year","National","E92000001","England","Selective State","Bronze",623,2.7,3
+202122,"Academic year","National","E92000001","England","Selective State","Provisional",92,0.4,0.4
+202122,"Academic year","National","E92000001","England","Selective State","None",667,2.9,3.2
+202122,"Academic year","National","E92000001","England","Other State","Gold",74977,31.6,41.4
+202122,"Academic year","National","E92000001","England","Other State","Silver",88902,37.5,49.1
+202122,"Academic year","National","E92000001","England","Other State","Bronze",10740,4.5,5.9
+202122,"Academic year","National","E92000001","England","Other State","Provisional",1766,0.7,1
+202122,"Academic year","National","E92000001","England","Other State","None",4862,2,2.7
+202122,"Academic year","National","E92000001","England","Total","Gold",100791,34.5,43.8
+202122,"Academic year","National","E92000001","England","Total","Silver",108465,37.1,47.1
+202122,"Academic year","National","E92000001","England","Total","Bronze",12136,4.2,5.3
+202122,"Academic year","National","E92000001","England","Total","Provisional",1950,0.7,0.8
+202122,"Academic year","National","E92000001","England","Total","None",7002,2.4,3
